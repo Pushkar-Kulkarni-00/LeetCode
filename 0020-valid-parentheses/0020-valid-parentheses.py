@@ -8,11 +8,11 @@ class Solution:
                 if not stack:
                     return False
                 elif i==')' and stack[-1]=='(':
-                    stack=stack[:-1]
+                    stack.pop()
                 elif i==']' and stack[-1]=='[':
-                    stack=stack[:-1]
+                    stack.pop()
                 elif i=='}' and stack[-1]=='{':
-                    stack=stack[:-1]
+                    stack.pop()
                 else:
                     return False
         return not stack
