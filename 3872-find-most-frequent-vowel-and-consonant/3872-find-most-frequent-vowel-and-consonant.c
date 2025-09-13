@@ -19,20 +19,20 @@ bool iscons(char ch){
     return true;
 }
 
-int vowelmax(unsigned char *k){
-    short max=0;
-    for(short i=0;i<256;i++) if(isvowel((char)i))if(k[i]>=max)max=k[i];
+int vowelmax(int *k){
+    int max=0;
+    for(int i=0;i<256;i++) if(isvowel((char)i))if(k[i]>=max)max=k[i];
     return max;
 }
 
-int consmax(unsigned char *k){
-    short max=0;
-    for(short i=0;i<256;i++)if(iscons((char)i)) if(k[i]>=max)max=k[i];
+int consmax(int *k){
+    int max=0;
+    for(int i=0;i<256;i++)if(iscons((char)i)) if(k[i]>=max)max=k[i];
     return max;
 }
 
 int maxFreqSum(char* s) {
-    unsigned char count[256]={0};
-    for(short i=0;s[i]!='\0';i++)count[s[i]]++;
+    int count[256]={0};
+    for(int i=0;s[i]!='\0';i++)count[s[i]]++;
     return vowelmax(count)+consmax(count);
 }
