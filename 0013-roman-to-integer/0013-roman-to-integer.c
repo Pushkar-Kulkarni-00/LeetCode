@@ -13,7 +13,6 @@ int getval(char c){
 
 int romanToInt(char* s) {
     int c=0;
-    char ch;
     for(int i=0;s[i]!='\0';i++){
         c+=getval(s[i]);
         if(s[i]=='V'){
