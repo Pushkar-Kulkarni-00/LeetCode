@@ -15,24 +15,23 @@ int romanToInt(char* s) {
     int c=0;
     char ch;
     for(int i=0;s[i]!='\0';i++){
-        ch=s[i];
-        c+=getval(ch);
-        if(ch=='V'){
+        c+=getval(s[i]);
+        if(s[i]=='V'){
             if(i!=0)if(s[i-1]=='I')c-=2;
         }
-        else if(ch=='X'){
+        else if(s[i]=='X'){
             if(i!=0) if(s[i-1]=='I')c-=2;
         }
-        else if(ch=='L'){
+        else if(s[i]=='L'){
             if(i!=0)if(s[i-1]=='X')c-=20;
         }
-        else if(ch=='C'){
+        else if(s[i]=='C'){
             if(i!=0)if(s[i-1]=='X')c-=20;
         }
-        else if(ch=='D'){
+        else if(s[i]=='D'){
             if(i!=0)if(s[i-1]=='C')c-=200;
         }
-        else if(ch=='M'){
+        else if(s[i]=='M'){
             if(i!=0)if(s[i-1]=='C')c-=200;
         }
     }
