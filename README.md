@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
