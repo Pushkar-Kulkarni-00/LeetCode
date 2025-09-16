@@ -1,4 +1,4 @@
-int getval(char c){
+int getval(unsigned char c){
     switch(c){
         case 'I':return 1;
         case 'V':return 5;
@@ -11,7 +11,7 @@ int getval(char c){
     return 0;
 }
 
-int romanToInt(char* s) {
+int romanToInt(unsigned char* s) {
     int c=0;
     for(int i=0;s[i]!='\0';i++){
         c+=getval(s[i]);
