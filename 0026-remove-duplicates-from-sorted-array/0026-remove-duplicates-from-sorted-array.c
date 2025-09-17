@@ -11,5 +11,6 @@ int removeDuplicates(int* nums, int numsSize) {
     for(int i=0;i<c;i++){
         nums[i]=num[i];
     }
+    free(num);
     return c;
 }
