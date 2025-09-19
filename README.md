@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0013-roman-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [3830-find-closest-person](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3830-find-closest-person) |
 ## Array
 |  |
 | ------- |
