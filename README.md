@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0013-roman-to-integer) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0027-remove-element) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Trie
 |  |
 | ------- |
