@@ -4,21 +4,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        max=0
+        max1=0
         n=0
-        knum={}
+        knum=[0]*100
         for i in nums:
-            if i in knum.keys():
-                knum[i]+=1
-            else:
-                knum[i]=1
-        for (i,j) in knum.items():
-            if j>max:
-                max=j
-                n=0
-            if j==max :
+            knum[i-1]+=1
+            max1=max(max1,knum[i-1])
+        for i in knum:
+            if i==max1:
                 n+=1
-        return max*n
+        return max1*n
             
             
         
