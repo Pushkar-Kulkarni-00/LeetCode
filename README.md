@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0058-length-of-last-word) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
