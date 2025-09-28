@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0342-power-of-four) |
+| [0830-largest-triangle-area](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3830-find-closest-person](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3830-find-closest-person) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0027-remove-element) |
+| [0830-largest-triangle-area](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0965-unique-email-addresses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0069-sqrtx) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
