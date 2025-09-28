@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0342-power-of-four) |
 | [0830-largest-triangle-area](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3830-find-closest-person](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3830-find-closest-person) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0027-remove-element) |
 | [0830-largest-triangle-area](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0965-unique-email-addresses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Trie
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3859-maximum-product-of-two-digits](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Linked List
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0830-largest-triangle-area) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
