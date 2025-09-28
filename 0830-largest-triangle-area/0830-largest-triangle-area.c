@@ -1,0 +1,25 @@
+double dist(int x1,int x2,int y1,int y2){
+    return sqrt((x1-x2)*(x1-x2)+(y1-y2)*(y1-y2));
+}
+
+double calc(double d1,double d2){
+    return 0.5*d1*d2;
+}
+
+double largestTriangleArea(int** points, int pointsSize, int* pointsColSize) {
+    double max=0;
+    for(int i=0;i<pointsSize;i++){
+        for(int j=i+1;j<pointsSize;j++){
+            for(int k=j+1;k<pointsSize;k++){
+                if(i!=j && i!=k && j!=k){
+                    int x1 = points[i][0], y1 = points[i][1];
+                    int x2 = points[j][0], y2 = points[j][1];
+                    int x3 = points[k][0], y3 = points[k][1];
+                    double area = 0.5 * fabs(x1*(y2 - y3) + x2*(y3 - y1) + x3*(y1-y2));
+                    max=area>max?area:max;
+                }
+            }
+        }
+    }
+    return max;
+}
