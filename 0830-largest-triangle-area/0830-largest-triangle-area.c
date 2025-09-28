@@ -1,11 +1,3 @@
-double dist(int x1,int x2,int y1,int y2){
-    return sqrt((x1-x2)*(x1-x2)+(y1-y2)*(y1-y2));
-}
-
-double calc(double d1,double d2){
-    return 0.5*d1*d2;
-}
-
 double largestTriangleArea(int** points, int pointsSize, int* pointsColSize) {
     double max=0;
     for(int i=0;i<pointsSize;i++){
