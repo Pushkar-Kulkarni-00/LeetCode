@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0278-first-bad-version) |
 ## Geometry
 |  |
 | ------- |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
