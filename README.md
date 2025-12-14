@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0342-power-of-four) |
 | [0830-largest-triangle-area](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1642-water-bottles) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
