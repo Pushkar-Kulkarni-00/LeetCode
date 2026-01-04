@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1642-water-bottles) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2748-number-of-beautiful-pairs](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3336-water-bottles-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2169-simple-bank-system) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
