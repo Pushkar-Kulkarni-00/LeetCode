@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0342-power-of-four) |
+| [0868-binary-gap](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
