@@ -193,14 +193,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Enumeration
 |  |
 | ------- |
