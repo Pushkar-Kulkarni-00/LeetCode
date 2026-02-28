@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0013-roman-to-integer) |
+| [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0035-search-insert-position) |
+| [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0830-largest-triangle-area](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
