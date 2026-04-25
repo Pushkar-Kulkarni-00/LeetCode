@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1642-water-bottles) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
