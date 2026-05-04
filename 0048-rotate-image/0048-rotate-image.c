@@ -1,15 +1,18 @@
 void rotate(int** matrix, int matrixSize, int* matrixColSize) {
-    int str[matrixSize*matrixSize];
-    int t=0;
-    for(int j=0;j<matrixSize;j++){
-        for(int i=matrixSize-1;i>=0;i--){
-            str[t++]=matrix[i][j];
+    //transpose
+    for(int i=0;i<matrixSize;i++){
+        for(int j=i;j<matrixSize;j++){
+            matrix[i][j]=matrix[j][i]+matrix[i][j]-(matrix[j][i]=matrix[i][j]);
         }
     }
-    t=0;
+    //reverse each row
     for(int i=0;i<matrixSize;i++){
-        for(int j=0;j<matrixSize;j++){
-            matrix[i][j]=str[t++];
+        int l=0;
+        int r=matrixSize-1;
+        while(l<r){
+            matrix[i][l]=matrix[i][l]+matrix[i][r]-(matrix[i][r]=matrix[i][l]);
+            l++;
+            r--;
         }
     }
 }
