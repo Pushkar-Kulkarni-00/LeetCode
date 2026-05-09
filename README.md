@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0396-rotate-function](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0542-01-matrix) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0067-add-binary) |
 | [0874-walking-robot-simulation](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1642-water-bottles) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0542-01-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0542-01-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1861-rotating-the-box) |
