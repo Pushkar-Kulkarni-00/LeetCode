@@ -12,6 +12,7 @@ int* separateDigits(int* nums, int numsSize, int* returnSize) {
         }
     }
     *returnSize=t;
+    ans=(int *)realloc(ans,t*sizeof(int));
     int l=0;
     int r=t-1;
     while(l<r){
