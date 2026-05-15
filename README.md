@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0542-01-matrix) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0278-first-bad-version) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Geometry
