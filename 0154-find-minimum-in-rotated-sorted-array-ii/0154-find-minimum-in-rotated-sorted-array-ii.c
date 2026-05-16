@@ -1,7 +1,11 @@
 int findMin(int* nums, int numsSize) {
-    int min=INT_MAX;
-    for(int i=0;i<numsSize;i++){
-        if(nums[i]<min)min=nums[i];
+    int l=0;
+    int r=numsSize-1;
+    while(l<r){
+        int m=(l+r)/2;
+        if(nums[m]<nums[r])r=m;
+        else if(nums[m]>nums[r])l=m+1;
+        else r--;
     }
-    return min;
+    return nums[l];
 }
