@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0541-reverse-string-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0796-rotate-string) |
 | [0965-unique-email-addresses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0125-valid-palindrome) |
+| [0541-reverse-string-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1861-rotating-the-box](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1861-rotating-the-box) |
 ## Sorting
