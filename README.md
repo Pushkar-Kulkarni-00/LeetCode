@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2540-minimum-common-value](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2540-minimum-common-value](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
