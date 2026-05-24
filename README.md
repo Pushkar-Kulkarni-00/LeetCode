@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0396-rotate-function) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0231-power-of-two) |
