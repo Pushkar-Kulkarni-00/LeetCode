@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0796-rotate-string) |
 | [0965-unique-email-addresses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0788-rotated-digits) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3660-jump-game-ix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3660-jump-game-ix) |
 ## Breadth-First Search
 |  |
