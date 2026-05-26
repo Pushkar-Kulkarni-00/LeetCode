@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2833-furthest-point-from-origin](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
