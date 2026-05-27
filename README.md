@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
