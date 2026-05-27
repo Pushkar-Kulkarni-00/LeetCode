@@ -1,22 +1,17 @@
 int numberOfSpecialChars(char* word) {
-    int chk[26]={0};
-    int chek[26]={0};
-    int db[26]={0};
-    for(int i=0;word[i]!='\0';i++){
-        char s=word[i];
-        if(s>='a' && s<='z'){
-            chk[s-'a']++;
-            if(chek[s-'a']>0){
-                db[s-'a']=1;
+    int lower =0;int upper=0;int invalid=0;
+    for(int i=0;word[i];i++){
+        char c=word[i];
+        if(c>='a'&& c<='z'){
+            int bit= 1<<(c-'a');
+            lower=lower | bit;
+            if(upper & bit){
+                invalid = invalid | bit;
             }
         }
-        if(s>='A' && s<='Z'){
-            chek[s-'A']++;
+        else{
+            upper= upper | 1<<(c-'A');
         }
     }
-    int cnt=0;
-    for(int i=0;i<26;i++){
-        if(chk[i]>0 && chek[i]>0 &&db[i]==0)cnt++;
-    }
-    return cnt;
+    return __builtin_popcount((lower & upper) & ~invalid);
 }
