@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2000-reverse-prefix-of-word](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2000-reverse-prefix-of-word](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1861-rotating-the-box) |
+| [2000-reverse-prefix-of-word](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
