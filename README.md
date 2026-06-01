@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0542-01-matrix) |
+| [0561-array-partition](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0830-largest-triangle-area](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -347,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
