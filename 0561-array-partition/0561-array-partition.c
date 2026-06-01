@@ -9,7 +9,6 @@ int arrayPairSum(int* nums, int numsSize) {
     for(int i=0;i<numsSize;i++){
         if(k==0)s+=nums[i];
         k=(k+1)%2;
-        printf("%d\n",s);
     }
     return s;
 }
