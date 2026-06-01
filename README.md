@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1861-rotating-the-box) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2169-simple-bank-system](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Simulation
 |  |
