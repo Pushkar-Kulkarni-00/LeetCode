@@ -24,8 +24,7 @@ int pairSum(struct ListNode* head) {
     }
     int max=0;
     while(i!=NULL){
-        int lmax=pop();
-        lmax+=i->val;
+        int lmax=pop()+i->val;
         if(lmax>max)max=lmax;
         i=i->next;
     }
