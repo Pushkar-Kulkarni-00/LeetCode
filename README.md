@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1861-rotating-the-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
