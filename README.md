@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1861-rotating-the-box](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1861-rotating-the-box) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1833-maximum-ice-cream-bars](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1833-maximum-ice-cream-bars](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Simulation
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0561-array-partition) |
+| [1833-maximum-ice-cream-bars](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Prefix Sum
 |  |
 | ------- |
