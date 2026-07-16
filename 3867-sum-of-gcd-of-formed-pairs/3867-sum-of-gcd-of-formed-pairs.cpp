@@ -18,8 +18,8 @@ public:
         }
         sort(prefixGcd.begin(),prefixGcd.end());
         long long ans=0;
-        int r=prefixGcd.size()-1;
-        int l=0;
+        long long r=prefixGcd.size()-1;
+        long long l=0;
         while(r>l){
             ans+=gcd(prefixGcd[r],prefixGcd[l]);
             r--;
