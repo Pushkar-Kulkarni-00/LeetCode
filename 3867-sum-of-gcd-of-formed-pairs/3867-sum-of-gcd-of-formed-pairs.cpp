@@ -7,14 +7,10 @@ public:
 
     long long gcdSum(vector<int>& nums) {
         vector<long long> prefixGcd;
-        vector <long long> mx;
         long long max=-1;
-        for(long long i:nums){
-            if(i>max)max=i;
-            mx.emplace_back(max);
-        }
         for(long long i=0;i<nums.size();i++){
-            prefixGcd.emplace_back(gcd(nums[i],mx[i]));
+            if(nums[i]>max)max=nums[i];
+            prefixGcd.emplace_back(gcd(nums[i],max));
         }
         sort(prefixGcd.begin(),prefixGcd.end());
         long long ans=0;
