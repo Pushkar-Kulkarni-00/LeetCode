@@ -1,10 +1,6 @@
+#include <numeric>
 class Solution {
 public:
-    long long gcd(long long m,long long k){
-        if(k==0)return m;
-        return gcd(k,m%k);
-    }
-
     long long gcdSum(vector<int>& nums) {
         vector<long long> prefixGcd;
         long long max=-1;
