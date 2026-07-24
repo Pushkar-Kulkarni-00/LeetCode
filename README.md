@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2748-number-of-beautiful-pairs](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2169-simple-bank-system) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1861-rotating-the-box) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Interactive
 |  |
