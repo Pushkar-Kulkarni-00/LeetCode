@@ -24,7 +24,7 @@ public:
         return lps;
     }
 
-    int find(const string &txt,const string &pt){
+    bool find(const string &txt,const string &pt){
         vector<int> lps=complps(pt);
         
         int n=txt.size();
@@ -39,19 +39,18 @@ public:
                 j++;
             }
             if(j==m){
-                return 1;
+                return true;
             }
             else if(i<n && txt[i]!=pt[j]){
                 if(j!=0)j=lps[j-1];
                 else i++;
             }
         }
-        return 0;
+        return false;
     }
     int numOfStrings(vector<string>& patterns, string word) {
-        vector<int> fre(26,0);
         int ans=0;
-        for(string x:patterns)ans+=find(word,x);
+        for(const string &x:patterns)ans+=find(word,x);
         return ans;
     }
 };
