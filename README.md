@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1861-rotating-the-box](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1861-rotating-the-box) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
