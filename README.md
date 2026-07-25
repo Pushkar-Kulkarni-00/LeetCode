@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0136-single-number) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0509-fibonacci-number) |
