@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0830-largest-triangle-area](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
