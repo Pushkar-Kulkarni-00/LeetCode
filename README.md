@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0136-single-number) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0148-sort-list) |
 | [0561-array-partition](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
