@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0817-linked-list-components](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0817-linked-list-components) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
