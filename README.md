@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3660-jump-game-ix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3660-jump-game-ix) |
 | [3708-longest-fibonacci-subarray](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3708-longest-fibonacci-subarray) |
 | [3731-find-missing-elements](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3731-find-missing-elements) |
