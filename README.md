@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0817-linked-list-components) |
+| [1367-linked-list-in-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1367-linked-list-in-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -410,12 +412,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1367-linked-list-in-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1367-linked-list-in-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Enumeration
 |  |
