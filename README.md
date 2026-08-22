@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0817-linked-list-components) |
 | [1367-linked-list-in-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1367-linked-list-in-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -484,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
