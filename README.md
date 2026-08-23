@@ -513,5 +513,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0175-combine-two-tables) |
 | [1683-invalid-tweets](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
