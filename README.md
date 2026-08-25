@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1323-maximum-69-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1390-four-divisors) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1323-maximum-69-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1323-maximum-69-number) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
