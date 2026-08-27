@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2833-furthest-point-from-origin](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
 | ------- |
