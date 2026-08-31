@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0125-valid-palindrome) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0069-sqrtx) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0067-add-binary) |
