@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0999-available-captures-for-rook](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1046-last-stone-weight](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1046-last-stone-weight) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1046-last-stone-weight](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
