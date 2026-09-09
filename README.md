@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0817-linked-list-components](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0817-linked-list-components) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
