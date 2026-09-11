@@ -11,20 +11,11 @@ public:
         for(int x:nums2)f2[x]=true;
 
         vector <int> ans;
-
-        if(*s1>*s2){
-            int i=0;
-            while(i<=*s2){
-                if(f1[i]&&f2[i])ans.emplace_back(i);
-                i++;
-            }
-        }
-        else{
-            int i=0;
-            while(i<=*s1){
-                if(f1[i]&&f2[i])ans.emplace_back(i);
-                i++;
-            }
+        int i=0;
+        int l=min(*s1,*s2);
+        while(i<=l){
+            if(f1[i]&&f2[i])ans.emplace_back(i);
+            i++;
         }
         return ans;
     }
