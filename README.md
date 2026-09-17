@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1598-crawler-log-folder](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0565-array-nesting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0817-linked-list-components](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0817-linked-list-components) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0654-maximum-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1367-linked-list-in-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1367-linked-list-in-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
@@ -516,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
@@ -607,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1859-sorting-the-sentence) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
