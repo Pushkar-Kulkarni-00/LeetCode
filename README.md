@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0817-linked-list-components](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0817-linked-list-components) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -626,4 +630,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
