@@ -4,7 +4,7 @@ public:
         unordered_map<int,int>f;
         int n=0;
         for(int x:nums){
-            if(f.find(x)==f.end()){
+            if(!f.count(x)){
                 f[x]=1;
             }
             else f[x]++;
