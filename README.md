@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Greedy
 |  |
 | ------- |
