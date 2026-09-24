@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3660-jump-game-ix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3660-jump-game-ix) |
 | [3708-longest-fibonacci-subarray](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
