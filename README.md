@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0796-rotate-string) |
 | [0965-unique-email-addresses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1598-crawler-log-folder](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -640,4 +642,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
