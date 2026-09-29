@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2540-minimum-common-value](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1861-rotating-the-box) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Interactive
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0788-rotated-digits) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3660-jump-game-ix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3660-jump-game-ix) |
 ## Breadth-First Search
 |  |
@@ -654,4 +657,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
