@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2501-longest-square-streak-in-an-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2540-minimum-common-value](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2501-longest-square-streak-in-an-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2540-minimum-common-value](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2501-longest-square-streak-in-an-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2501-longest-square-streak-in-an-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2540-minimum-common-value](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Geometry
@@ -576,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2501-longest-square-streak-in-an-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 | [3660-jump-game-ix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3660-jump-game-ix) |
 ## Breadth-First Search
 |  |
