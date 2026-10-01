@@ -1,15 +1,23 @@
 class Solution {
 public:
     int longestSquareStreak(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        unordered_map <long long,bool>k;
-        for(long long x:nums)k[x]=true;
-        int ans=-1;
-        for(long long x:nums){
-            int t=1;
-            while(k[x*x]){x*=x;t++;}
-            if(t>=2)if(t>ans)ans=t;
+        unordered_set<long long> s(nums.begin(), nums.end());
+
+        int ans = -1;
+
+        for (long long x : nums) {
+            int len = 1;
+            long long y = x;
+
+            while (y <= 100000 && s.count(y * y)) {
+                y = y * y;
+                len++;
+            }
+
+            if (len >= 2)
+                ans = max(ans, len);
         }
+
         return ans;
     }
 };
