@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0542-01-matrix) |
 | [0999-available-captures-for-rook](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1260-shift-2d-grid) |
