@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0999-available-captures-for-rook](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1018-largest-perimeter-triangle](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1046-last-stone-weight) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0817-linked-list-components) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
