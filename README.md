@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0796-rotate-string) |
 | [0965-unique-email-addresses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1021-remove-outermost-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
