@@ -16,7 +16,7 @@ public:
         int cnt=0;
         bool on=false;
         while(t!=nullptr){
-            if(k.count(t->val)>=1){
+            if(k.count(t->val)){
                 if(on){
                     t=t->next;
                     continue;
