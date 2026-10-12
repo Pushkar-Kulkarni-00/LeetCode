@@ -11,35 +11,28 @@
 class Solution {
 public:
     int numComponents(ListNode* head, vector<int>& nums) {
-        vector <int> f(10001,0);
-        for(int &x:nums)f[x]++;
+        unordered_set <int> k(nums.begin(),nums.end());
         ListNode *t=head;
-        int n=0;
-        while(t!=NULL){n++;t=t->next;}
-        vector <bool> g(n,false);
-        t=head;
-        n=0;
-        while(t!=NULL){
-            if(f[t->val])g[n]=true;
-            n++;
-            t=t->next;
-        }
-        bool chk=false;
-        int ans=0;
-        for(int i=0;i<n;i++){
-            if(g[i]){
-                if(chk==false)chk=true;
-                else continue;
+        int cnt=0;
+        bool on=false;
+        while(t!=nullptr){
+            if(k.count(t->val)>=1){
+                if(on){
+                    t=t->next;
+                    continue;
+                }
+                else on=true;
             }
             else{
-                if(chk==true){
-                    chk=false;
-                    ans++;
+                if(on){
+                    cnt+=1;
+                    on=false;
                 }
-                else continue;
             }
+            t=t->next;
         }
-        if(chk)ans++;
-        return ans;
+        if(on)cnt++;
+        return cnt;
+
     }
 };
