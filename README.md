@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0542-01-matrix) |
 | [0999-available-captures-for-rook](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0200-number-of-islands) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0542-01-matrix) |
 ## String Matching
 |  |
@@ -700,4 +704,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
