@@ -14,7 +14,7 @@ public:
             l++;
             r--;
         }
-        if(l==r)ans+=t*(long)nums[r]*nums[r];
+        if(l==r)ans+=t*nums[r]*nums[r];
         return ans;
     }
 };
