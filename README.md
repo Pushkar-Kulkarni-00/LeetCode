@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2169-simple-bank-system](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2169-simple-bank-system) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2540-minimum-common-value](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
