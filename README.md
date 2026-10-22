@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Array
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Trie
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3731-find-missing-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3265-count-almost-equal-pairs-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Monotonic Stack
 |  |
 | ------- |
