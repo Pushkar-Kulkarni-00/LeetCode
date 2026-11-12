@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3265-count-almost-equal-pairs-i) |
