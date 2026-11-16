@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2833-furthest-point-from-origin](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2169-simple-bank-system) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/3336-water-bottles-ii) |
