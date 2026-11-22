@@ -7,10 +7,10 @@ public:
         return -1;
     }
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        set<vector<int>> ans;
+        vector<vector<int>> ans;
         int n=nums.size();
         sort(nums.begin(),nums.end());
-        ans.insert(nums);
+        ans.emplace_back(nums);
         int i;
         while((i=chk(nums,n))!=-1){
             int j;
@@ -25,9 +25,8 @@ public:
                 l++;
                 r--;
             }
-            ans.insert(nums);
+            ans.emplace_back(nums);
         }
-        vector<vector <int>> t(ans.begin(),ans.end());
-        return t;
+        return ans;
     }
 };
