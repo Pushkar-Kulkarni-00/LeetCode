@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0817-linked-list-components](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0817-linked-list-components) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pushkar-Kulkarni-00/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
